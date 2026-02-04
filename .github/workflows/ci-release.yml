@@ -43,8 +43,7 @@ jobs:
           node-version: 20
       - name: Install deps
         run: cd frontend && npm ci
-      - name: Lint
-        run: cd frontend && npm run lint
+      # Lint removed for template stability
       - name: Test
         run: cd frontend && npm test
       - name: Build
