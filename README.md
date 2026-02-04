@@ -1,5 +1,9 @@
 # Claw Engineering Template
 
+![CI](https://github.com/1mf-claw/claw-engineering-template/actions/workflows/ci-release.yml/badge.svg)
+![Release](https://img.shields.io/github/v/release/1mf-claw/claw-engineering-template)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 Production-ready full‑stack template (Go + Vue) with CI/CD, SRE baseline, and governance baked in.
 
 ## What You Get
